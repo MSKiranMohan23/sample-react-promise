@@ -1,6 +1,6 @@
 # sample-react-promise
 
-This simple react code demonstrates about the usage of Promises in simple code.
+This sample react code demonstrates about the usage of Promises in simple code.
 
 #Steps to run the code
 
